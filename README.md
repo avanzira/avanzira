@@ -35,7 +35,7 @@ Si te interesa colaborar, solicitar una demo o conocer más sobre mi trabajo:
 
 - 🌐 **Portfolio**: [https://ariznabarreta.eu/](https://ariznabarreta.eu/)
 - 💼 **LinkedIn**: [https://www.linkedin.com/in/jorge-ariznabarreta/](https://www.linkedin.com/in/jorge-ariznabarreta/)
-- ✉️ **Email**: avanzira+github@gmail.com
+- ✉️ **Email**: jorge.ariznabarreta.zabala+github@gmail.com
 - 💾 **Repo Público**: [https://github.com/jorge-ariznabarreta-zabala](https://github.com/jorge-ariznabarreta-zabala)
 ---
 
