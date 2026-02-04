@@ -40,10 +40,3 @@ Si te interesa colaborar, solicitar una demo o conocer más sobre mi trabajo:
 ---
 
 > Desarrollo software pensado para usarse, mantenerse y escalar.
-
-- 💼 **LinkedIn**: https://linkedin.com/in/tu-perfil
-- ✉️ **Email**: tu@email.com
-
----
-
-> Desarrollo software pensado para usarse, mantenerse y escalar.
